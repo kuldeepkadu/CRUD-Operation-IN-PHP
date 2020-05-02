@@ -13,7 +13,8 @@ Copy file.php to htdocs (C:/Program Files/XAMPP/htdocs)
 You can also create any folders inside htdocs folder and save our codes over there.
 
 Step 4:
-Create databse  by typing (localhost/phpmyadmin) over browser.
+Create databse  by typing (localhost/phpmyadmin/) over browser.
+Here import database file(.sql) into phpmyadmin
 
 Step 5:
 Now to run your code, open localhost/file.php then it gets executed.
